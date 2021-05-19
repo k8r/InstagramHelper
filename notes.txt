@@ -1,5 +1,5 @@
 https://api.instagram.com/oauth/authorize
-  ?client_id=811610709770465
+  ?client_id=4259833640746245
   &redirect_uri=https://priceless-cray-92cd55.netlify.app
   &scope=user_profile,user_media
   &response_type=code
