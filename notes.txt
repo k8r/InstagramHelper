@@ -1,0 +1,7 @@
+https://api.instagram.com/oauth/authorize
+  ?client_id=811610709770465
+  &redirect_uri=https://priceless-cray-92cd55.netlify.app
+  &scope=user_profile,user_media
+  &response_type=code
+
+  for authenticating the test user from https://developers.facebook.com/docs/instagram-basic-display-api/getting-started
